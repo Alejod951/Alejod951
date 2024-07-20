@@ -13,6 +13,6 @@ I'm currently diving deep into software architecture and exploring how to levera
 Feel free to reach out if you need assistance with any technology listed in my skill set below. I'm always eager to collaborate and help out where I can!
 
 My Skill Set
-Frontend: HTML5, CSS3, Sass, Tailwind CSS, React, Redux, JavaScript, jQuery
-Backend: Node.js, Webpack, PostgreSQL, MongoDB, TypeScript
-Tools: PowerShell
+Frontend: HTML5, CSS3, , Tailwind CSS, React, Redux, JavaScript, jQuery
+Backend: Node.js, Webpack, PostgreSQL, 
+Tools: PowerShell, Ros2
